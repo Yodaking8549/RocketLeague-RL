@@ -152,7 +152,3 @@ if __name__ == '__main__':  # Required for multiprocessing
     print("Saving model")
     exit_save(model)
     print("Save complete")
-
-#######################################################################################################
-Visit https://github.com/Impossibum/rlgym_quickstart_tutorial_bot for the original version of the code.
-#######################################################################################################
